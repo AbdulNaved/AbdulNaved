@@ -1,5 +1,5 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00F7A6&width=750&lines=Hi+there%2C+I'm+Naved+Abdul+%F0%9F%91%8B;Full-Stack+MERN+Developer;Generative+AI+Learner;Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00F7A6&width=750&lines=Hi+there%2C+I'm+Naved+Abdul+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Generative+AI+Learner+%F0%9F%A4%96;Gamer+%F0%9F%8E%AE+%7C+Bike+Rider+%F0%9F%8F%8D%EF%B8%8F;Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -56,8 +56,10 @@ I focus on creating scalable, user-friendly applications and exploring **Generat
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=AbdulNaved&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center">🏆 My GitHub Trophies</h2>  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulNaved&theme=onestar&no-frame=false&no-bg=false&margin-w=15&column=7" alt="Trophies" />
+</p>
 
 ---
 
@@ -68,6 +70,11 @@ I focus on creating scalable, user-friendly applications and exploring **Generat
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=AbdulNaved&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Snake Game:
+![snake gif](https://github.com/AbdulNaved/AbdulNaved/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
