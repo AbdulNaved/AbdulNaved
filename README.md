@@ -74,7 +74,8 @@ I focus on creating scalable, user-friendly applications and exploring **Generat
 ---
 
 ## 🐍 Snake Game:
-![snake gif](https://github.com/AbdulNaved/AbdulNaved/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/AbdulNaved/AbdulNaved/output/github-contribution-grid-snake.svg)
+
 
 ---
 
