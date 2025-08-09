@@ -82,11 +82,6 @@ I focus on creating scalable, user-friendly applications and exploring **Generat
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=AbdulNaved&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-## 🐍 Snake Game:
-![snake gif](https://raw.githubusercontent.com/AbdulNaved/AbdulNaved/output/github-contribution-grid-snake.svg)
-
 
 ---
 
