@@ -10,7 +10,7 @@ I focus on creating scalable, user-friendly applications and exploring **Generat
 - 🔭 **Currently working on:** AI-based course generator, MERN apps  
 - 🌱 **Learning:** Prompt engineering, embeddings, system design  
 - 👯 **Looking to collaborate:** Full-stack or AI projects  
-- ⚡ **Fun facts:** Gamer 🎮, bike rider 🏍️, digital artist 🎨, and tech explorer 🚀  
+
 
 ---
 
